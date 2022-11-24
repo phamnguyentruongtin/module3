@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47ceda7c-c01c-46e8-b19b-d2b4b2c02f4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quan_li_nhan_vien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/DocFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/DuLieuFullTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/DuLieuPartTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/IDuLieuFullTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/IDuLieuPartTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/NhanVienFull.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/NhanVienPart.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/luong.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/luongFul.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/luongPart.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/INhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/NhanVienFullTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/NhanVienPartTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quan_li_danh_sach/IQuanLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quan_li_danh_sach/QuanLiDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quan_li_danh_sach/controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hu7q1mxlyxUSqiWHt0LSfmCwFt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/CODEGYM/JSP_Servlet/quan_li_nhan_vien&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.controller">
+    <configuration name="NhanVienFullTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entity.NhanVienFullTime" />
+      <module name="quan_li_nhan_vien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quan_li_danh_sach.controller" />
+      <module name="quan_li_nhan_vien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quan_li_danh_sach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.controller" />
+        <item itemvalue="Application.NhanVienFullTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47ceda7c-c01c-46e8-b19b-d2b4b2c02f4e" name="Changes" comment="" />
+      <created>1669123304027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669123304027</updated>
+      <workItem from="1669123306178" duration="9706000" />
+      <workItem from="1669133079331" duration="8751000" />
+      <workItem from="1669142013586" duration="376000" />
+      <workItem from="1669167364238" duration="1295000" />
+      <workItem from="1669168677544" duration="207000" />
+      <workItem from="1669185206444" duration="189000" />
+      <workItem from="1669205816691" duration="1057000" />
+      <workItem from="1669206892345" duration="135000" />
+      <workItem from="1669207039547" duration="4427000" />
+      <workItem from="1669211541259" duration="1892000" />
+      <workItem from="1669256374078" duration="4615000" />
+      <workItem from="1669261024624" duration="5386000" />
+      <workItem from="1669266517613" duration="1722000" />
+      <workItem from="1669269460151" duration="514000" />
+      <workItem from="1669269995145" duration="1970000" />
+      <workItem from="1669275344759" duration="1275000" />
+      <workItem from="1669276752923" duration="223000" />
+      <workItem from="1669277034816" duration="2469000" />
+      <workItem from="1669279593823" duration="126000" />
+      <workItem from="1669279759341" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/data/IDuLieuFullTime.java</url>
+          <line>15</line>
+          <properties class="data.IDuLieuFullTime" method="findByMaNVFull">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="temporary" value="true" />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/quan_li_danh_sach/controller.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/quan_li_danh_sach/controller.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/quan_li_nhan_vien$controller.ic" NAME="controller Coverage Results" MODIFIED="1669168626961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quan_li_danh_sach.*</FILTER>
+    </SUITE>
+  </component>
+</project>
